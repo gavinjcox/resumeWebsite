@@ -2,35 +2,26 @@ body {
     font-family: "Times New Roman", Times, serif;
     background: rgb(2,0,36);
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(208,165,89,1) 35%, rgba(0,212,255,1) 100%);
-}
-
-header {
-    display:inline;
+    text-align:center;
 }
 
 h1 {
     text-align:center;
 }
 
-nav {
-    display:inline;
+h2 {
+    text-align:center;
 }
 
 nav a {
     color:black;
     text-decoration: none;
-    text-align:left;
+    text-align:center;
     display:block;
 }
 
 nav a:hover {
     text-decoration: underline;
-}
-
-.container {
-    width: 100%;
-    margin: auto;
-    overflow: hidden;
 }
 
 footer {
@@ -39,7 +30,4 @@ footer {
     position: relative;
     bottom: 0;
     width: 100%;
-}
-
-section {
 }
