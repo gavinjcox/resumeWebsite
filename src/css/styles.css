@@ -26,7 +26,8 @@ nav a:hover {
 
 p{
     text-align: center;
-    padding: 50px;
+    padding: 20px;
+    font-size: 20px;
 }
 p a{
     text-decoration: none;
