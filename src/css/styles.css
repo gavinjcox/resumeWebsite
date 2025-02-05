@@ -18,6 +18,7 @@ nav a {
     text-decoration: none;
     text-align:center;
     display:block;
+    font: size 20px;
 }
 
 nav a:hover {
